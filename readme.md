@@ -16,7 +16,7 @@ To customize the interface edit NgenUI.exe.config
 
 # License
 
-This library is released under The MIT License (MIT).
+This project is released under The MIT License (MIT).
 
 	Copyright (c) 2013 Slava Guzenko 
 
