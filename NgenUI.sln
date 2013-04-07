@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgenUI", "NgenUI\NgenUI.csproj", "{CB08C309-C491-4D58-A0CE-D933D85894F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{2D3D51A9-9977-4660-91B4-E193503281E1}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB08C309-C491-4D58-A0CE-D933D85894F9}.Debug|x86.ActiveCfg = Debug|x86
+		{CB08C309-C491-4D58-A0CE-D933D85894F9}.Debug|x86.Build.0 = Debug|x86
+		{CB08C309-C491-4D58-A0CE-D933D85894F9}.Release|x86.ActiveCfg = Release|x86
+		{CB08C309-C491-4D58-A0CE-D933D85894F9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
