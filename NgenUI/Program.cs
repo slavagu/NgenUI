@@ -37,7 +37,7 @@ namespace SlavaGu.NgenUI
                 AttachConsole(AttachParentProcess);
 
                 Console.WriteLine("");
-                Console.WriteLine("NgenUI is a user interface for ngen.exe (CLR Native Image Generator)");
+                Console.WriteLine("NgenUI is a progress dialog for ngen.exe (CLR Native Image Generator)");
                 Console.WriteLine("Usage: ngenui <ngen action> <assembly>, e.g. ngenui install MyAssembly.dll");
                 Console.WriteLine("Supported ngen actions: install, uninstall, display");
                 Console.WriteLine("To customize the interface edit NgenUI.exe.config");
