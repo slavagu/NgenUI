@@ -6,7 +6,9 @@ For Ngen documentation [see MSDN](http://msdn.microsoft.com/en-us/library/6t9t5w
 
 # Usage
 
-Usage: ngenui <ngen action> <assembly>, e.g. ngenui install MyAssembly.dll
+Usage: ngenui ngen_action assembly_file_or_name
+
+For example: ngenui install MyAssembly.dll
 
 Supported ngen actions: install, uninstall, display
 
